@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GameCharactersAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+123d1e6ccab9f61d6f5284ebb03bb1fb1876b160")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c3427fcea4bd91f4d676371ec26ae7d5e9c31098")]
 [assembly: System.Reflection.AssemblyProductAttribute("GameCharactersAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GameCharactersAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
